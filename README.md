@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kelvin Onumajuru
+### Hi,👋 I'm Kelvin Onumajuru
 
 
 ### About me 
