@@ -2,7 +2,7 @@
 
 
 ### About me 
-   A goal oriented, high dedicated and resilient professional and Information technology enthusiastic
+   A goal oriented, high dedicated and resilient professional and tech enthusiastic
    
 - 🔭 I’m interested in DevOps
 - 🌱 I’m currently learning Software Engineering
